@@ -29,6 +29,7 @@ http://docs.opencv.org/modules/highgui/doc/reading_and_writing_images_and_video.
 // C++
 #include <iomanip>      // std::setfill, std::setw
 #include <opencv2/highgui/highgui.hpp>
+#include <opencv2/imgproc/imgproc.hpp>
 
 class Timer {
 public:
